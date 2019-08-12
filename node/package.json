@@ -1,0 +1,20 @@
+{
+  "name": "tutorial-unit-testing-node",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Ang Ziwei",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll --verbose=false"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "supertest": "^4.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.15"
+  }
+}

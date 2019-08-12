@@ -1,0 +1,18 @@
+.next
+.vscode
+.version
+node_modules
+coverage/*
+static/lib/*
+!static/lib/empty
+logs
+logs/*.log
+*.log
+provisioning/kubernetes/*
+# IntelliJ
+.idea
+*.iml
+
+graphql.config.json
+.DS_Store
+dist
