@@ -46,8 +46,5 @@ In behaviour verification, you specify exactly which methods are to be invoked o
 > Imperfect tests, run frequently, are much better than perfect tests that are never written at all
 ~ *Martin Fowler*
 
-<br>
-<br>
-
 > Any tests are better than no tests
 ~ *Jeff Atwood*
